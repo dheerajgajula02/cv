@@ -1,3 +1,3 @@
 # cv
 
-###documenting my computer vision journey####
+### documenting my computer vision journey
